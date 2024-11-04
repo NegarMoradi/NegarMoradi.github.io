@@ -11,14 +11,16 @@ author_profile: true
 
 ### Research Experience
 
-- Data Analytics Lab, University of Tehran, under the supervision of [Dr. Bahrak](https://profile.ut.ac.ir/en/~bahrak) ,(Jul. 2022 - Jan. 2023).
+- Data Analytics Lab, University of Tehran, under the supervision of [Dr. Bahrak](https://profile.ut.ac.ir/en/~bahrak) ,(Jul. 2022 - Sep. 2023).
 
 ### Teaching Experience
 
 - Head Teaching Assistant
+
   - Computer-Aided Design, [M. Modarressi](https://ece.ut.ac.ir/~modarressi), [M. Ersali](https://ece.ut.ac.ir/~mersali), (Fall 2022, Spring 2023, Fall 2023)
 
 - Supervisor Teaching Assistant
+
   - Artificial Intelligence, [Y. Yaghoobzadeh](https://ece.ut.ac.ir/~y.yaghoobzadeh), [H. Fadaei](https://ece.ut.ac.ir/en/~students/h.fadaei), (Fall 2024)
   - Compiler design and programming languages, S. Tavassoli, (Spring 2023)
 

@@ -10,8 +10,8 @@ redirect_from:
 
 ## Academic Background
 
-I am Negar Moradi, a Computer Engineering B.Sc. at the [University of Tehran](https://ut.ac.ir/en) and a research assistant in the Data Analytics Laboratory under the supervision of [Dr. Bahrak](https://ece.ut.ac.ir/en/~bahrak) I worked on an article related to detecting Monero cryptocurrency miners on networks and examined additional research on DeFi and cryptocurrency.
-I also have been working as a Front-End Engineer at the [Digikala Company](https://www.digikala.com/) which is one of the biggest E-Commerce company in the region.
+I am Negar Moradi, a B.Sc. graduate in Computer Engineering from the [University of Tehran](https://ut.ac.ir/en). I previously worked as a research assistant in the Data Analytics Laboratory, supervised by [Dr. Bahrak](https://ece.ut.ac.ir/en/~bahrak), where I contributed to research on detecting Monero cryptocurrency miners on networks and explored additional topics in DeFi and cryptocurrency.
+Currently, I work as a Front-End Engineer at [Digikala Company](https://www.digikala.com/), one of the largest e-commerce companies in the region.
 
 ## Research Interestes
 
