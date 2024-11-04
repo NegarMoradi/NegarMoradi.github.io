@@ -15,4 +15,4 @@ Currently, I work as a Front-End Engineer at [Digikala Company](https://www.digi
 
 ## Research Interestes
 
-I'm interested in Machine Learning applications, Artificial Intelligence, Natural language processing, Deep Learning, Data analysis, Reinforcement Learning, and Blockchain research fields.
+I'm interested in Machine Learning applications, Artificial Intelligence, Natural language processing, Deep Learning, Data analysis, Reinforcement Learning, and AI in Software Engineering fields.
