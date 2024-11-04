@@ -9,4 +9,3 @@ redirect_from:
 
 ![image](https://github.com/NegarMoradi/images/blob/main/CV-1.png?raw=true)
 ![image](https://github.com/NegarMoradi/images/blob/main/CV-2.png?raw=true)
-![image](https://github.com/NegarMoradi/images/blob/main/CV-3.png?raw=true)
